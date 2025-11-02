@@ -1,5 +1,5 @@
 <img width="750" height="231" alt="image" src="https://github.com/user-attachments/assets/49d7477a-fb95-4aad-879c-d9ce41b78fa2" />
-=
+
 
 Cypher is a highly customized and independent Linux based Operating System.
 
